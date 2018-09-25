@@ -15,6 +15,6 @@ public class run {
     public static void main(String[] args) {
         System.out.println("Hola Manolo");
         JOptionPane.showMessageDialog(null, "Hola Manolo");
-        JOptionPane.showMessageDialog(null, "Esto es fantastico");
+        JOptionPane.showMessageDialog(null, "Esto es fantástico");
      }
 }
