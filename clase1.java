@@ -13,7 +13,7 @@ public class clase1 {
     public static void main(String[] args){
         //creamos la variable integer con el valor 13
         int var1 = 13;
-        System.out.println("Manuel Fernandez carrillo");
+        System.out.println("Manuel Fernandez Carrillo");
         System.out.println("El valor de la variable es :"+var1);
     }
 }
